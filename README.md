@@ -23,3 +23,8 @@ Descrição de cada variável do dataset
 *   andar ->	Número do andar do imóvel
 *   endereco ->	Informações sobre o endereço do imóvel
 *   valores ->	Informações sobre valores de venda e locação dos imóveis
+
+
+*   Semana 01 - Transformação dos dados com PySpark 
+*   Semana 02 - Tratamento dos dados e criação de um modelo de regressão com PySpark
+*   Semana 03 - Criando um modelo de recomendação com PySpark
