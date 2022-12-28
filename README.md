@@ -1,4 +1,20 @@
-# Challenge-Data-Science-Alura-2ed
+# Challenge Data Science 2° Edição
+
+ Usando uma base de dados de imóveis do Rio de Janeiro será realizado processos de 
+ tratamento dos dados, criação de modelos de regressão e modelos de recomendação com PySpark.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Challenge Data Science 2° Edição**
+| :label: Tecnologias | Python, Pyspark (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://i.ibb.co/WDCcb5P/1-Mw-ZZjt-Il-JU0-TFa-Zxf-Bz1-Q.jpg)
+
+## Detalhes do projeto
+
 Proposta do desafio:
 
 A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações realizadas em seu site.
@@ -28,3 +44,4 @@ Descrição de cada variável do dataset
 *   Semana 01 - Transformação dos dados com PySpark 
 *   Semana 02 - Tratamento dos dados e criação de um modelo de regressão com PySpark
 *   Semana 03 - Criando um modelo de recomendação com PySpark
+
