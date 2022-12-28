@@ -5,13 +5,13 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Challenge Data Science 2° Edição**
+| :sparkles: Nome        | **Recomendador de imóveis**
 | :label: Tecnologias | Python, Pyspark (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.ibb.co/WDCcb5P/1-Mw-ZZjt-Il-JU0-TFa-Zxf-Bz1-Q.jpg)
+![](https://i.ibb.co/K5wWC2F/as-10-melhores-cidades-do-brasil-para-investir-em-imoveis-default.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
