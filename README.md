@@ -7,7 +7,9 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Recomendador de imóveis**
 | :label: Tecnologias | Python, Pyspark (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket:Semana 01 - Transformação dos dados com PySpark    | https://github.com/FranziskoB/Challenge-Data-Science-Alura-2ed/blob/main/Semana_1.ipynb
+| :rocket:Semana 02 - Tratamento dos dados e criação de um modelo de regressão com PySpark| https://github.com/FranziskoB/Challenge-Data-Science-Alura-2ed/blob/main/Semana_2.ipynb
+| :rocket:Semana 03 - Criando um modelo de recomendação com PySpark    | https://github.com/FranziskoB/Challenge-Data-Science-Alura-2ed/blob/main/Semana_3.ipynb
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
